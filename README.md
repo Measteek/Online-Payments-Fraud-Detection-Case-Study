@@ -32,7 +32,7 @@ Steps:
 
 
 4. Higlighting Relationships and insights.
-5. Data Transformation.
+5. Data Transformation; Using resampling techniques to address Class-imbalace..
 6. Feature Engineering.
 7. Model Training.
 8. Model Evaluation.
