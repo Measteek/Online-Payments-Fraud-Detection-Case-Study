@@ -32,6 +32,18 @@ Steps:
 
 
 4. Higlighting Relationships and insights.
+5. Data Transformation.
+6. Feature Engineering.
+7. Model Training.
+8. Model Evaluation.
 
-Mod
-el Training and Evaluation.
+Challenges:
+I encountered a number of challenges during coding which made me run into error reports. these were due to improper documentations, syntax, especially during feature engineering (one-hot encoding: 'fit.transform'). This aspect consumed most of my time 
+
+I was able to solve these challenges by making extensive research and paying close attention to syntax. I was able to selve the encoding by using 'pd.get_dummies() and making some specifications in the methods.
+
+
+
+
+
+
