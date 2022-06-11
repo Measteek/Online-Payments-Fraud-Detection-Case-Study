@@ -28,8 +28,9 @@ Steps:
 2. Loading Dataset.
 
 3. Exploratory Data Analysis.
-4. 
 
-Higlighting Relationships and insights.
 
-Model Training and Evaluation.
+4. Higlighting Relationships and insights.
+
+Mod
+el Training and Evaluation.
