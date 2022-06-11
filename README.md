@@ -1,5 +1,6 @@
 # Online-Payments-Fraud-Detection:-A-Blossom-Bank-PLC-Case-Study
-A Data Science/Machine Learning Project
+A Data Science/Machine Learning Project.
+
 According to Bolster , Global Fraud Index (as at June 2022) is at 10,183 and growing. This is high risk to businesses and customers transacting online. This indicates that traditional rules-based methods of detecting and combating fraud are fast becoming less effective. It becomes imperative for stakeholders to develop innovative means to make transacting online as safe as possible. Artificial intelligence provides viable and efficient solutions via Machine Learning models/algorithms.
 
 In this project, I trained a fraud detection model to predict online payment fraud using Blossom Bank PLC as case study.
